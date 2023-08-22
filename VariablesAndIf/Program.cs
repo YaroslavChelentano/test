@@ -7,7 +7,7 @@
             var number = 5;
             var name = "Oleg";
             var damage = 50;
-            var isInHead = damage == 100;
+            var isInHead = damage == 110;
             if (isInHead)
             {
                 Console.WriteLine("Head");
